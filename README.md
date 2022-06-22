@@ -1,6 +1,6 @@
 
 
-### Hi there My name is Ashley👋
+### Hi there! My name is Ashley👋
 
 I'm a Full-Stack Developer, who just completed the Full stack Web development course at Le Wagon.
 
