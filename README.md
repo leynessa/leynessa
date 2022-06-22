@@ -11,6 +11,6 @@ BIO <br>
 💅 Designed: Staysafe, spotify clone <br>
 🌱 Learning all about Ruby on rails and JavaScript <br>
 ⚡ contact: leynessa1@gmail.com <br>
-i love to listen
+😇 i love to listen
 
 ⚡️ Fun fact: I like crossfit, running and Jerk Chicken
