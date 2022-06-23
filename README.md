@@ -14,7 +14,7 @@ BIO <br>
 😇 i love to listen
 
 ⚡️ Fun fact: I like crossfit, running and Jerk Chicken
-
+---
 ### :hammer_and_wrench: Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg"  title="Ruby on Rails" alt="rails" width="40" height="40"/>&nbsp;
@@ -26,3 +26,8 @@ BIO <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="figma" width="40" height="40"/>
 </div>
+---
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?leynessa
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leynessa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
