@@ -28,7 +28,8 @@ BIO <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="figma" width="40" height="40"/>
 </div>
 ---
-### :fire: My Stats :
+### :fire: My Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leynessa&theme=synthwave)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leynessa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
