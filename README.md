@@ -1,6 +1,8 @@
 
 
 ### Hi there! My name is Ashley👋
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@leynessa)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashleyvanessawilliams/)
 
 I'm a Full-Stack Developer, who just completed the Full stack Web development course at Le Wagon.
 
@@ -10,8 +12,11 @@ BIO <br>
 🌍 I'm mostly active within the Ruby community <br>
 💅 Designed: Staysafe, spotify clone <br>
 🌱 Learning all about Ruby on rails and JavaScript <br>
-⚡ contact: leynessa1@gmail.com <br>
-😇 i love to listen
+⚡ contact me : <br> 
+        :pencil2: [email] leynessa1@gmail.com <br>
+      😇 i love to listen<br>
+      
+      
 ⚡️ Fun fact: I like crossfit, running and Jerk Chicken
 
 
@@ -36,3 +41,9 @@ BIO <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leynessa&theme=synthwave)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leynessa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+
