@@ -15,7 +15,7 @@ BIO <br>
 💅 Designed: Staysafe, spotify clone <br>
 🌱 Learning all about Ruby on rails and JavaScript <br>
 ⚡ contact me : <br> 
-        :pencil2: [email] leynessa1@gmail.com <br>
+        :pencil2:  leynessa1@gmail.com <br>
       😇 i love to listen<br>
       
       
