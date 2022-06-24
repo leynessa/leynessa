@@ -53,3 +53,5 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/2" alt="Recent Article 2"> 
 <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/3" alt="Recent Article 3"> 
+<br>
