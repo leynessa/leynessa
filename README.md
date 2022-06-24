@@ -7,7 +7,7 @@
 <br>
 ----
 
-I'm a Full-Stack Developer, who just completed the Full stack Web development course at Le Wagon.
+I'm a Full-Stack Developer, who completed the Full stack Web development course at Le Wagon.
 
 ### BIO <br>
 
