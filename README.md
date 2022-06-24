@@ -48,4 +48,8 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 
 ### :writing_hand: Blog Posts :
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0" alt="Recent Article 0"> 
+<br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/2" alt="Recent Article 2"> 
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/2" alt="Recent Article 2"> 
+<br>
