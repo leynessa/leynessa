@@ -16,7 +16,7 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 🌍 I'm mostly active within the Ruby community <br>
 💅 Designed: Staysafe, spotify clone <br>
 🌱 Learning all about Ruby on rails and JavaScript <br>
-⚡ contact me, i love to listening  : :pencil2:  leynessa1@gmail.com <br>
+:mail: contact me, i love to listening  : :pencil2:  leynessa1@gmail.com <br>
       
       
 ⚡️ Fun fact: I like crossfit, running and Jerk Chicken
