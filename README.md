@@ -5,6 +5,8 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@leynessa)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashleyvanessawilliams/)
 <br>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://portfolioash.herokuapp.com/#)
+
 ----
 
 I'm a Full-Stack Developer, who completed the Full stack Web development course at Le Wagon.
