@@ -43,7 +43,7 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 ### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leynessa&theme=synthwave)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leynessa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leynessa&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -52,6 +52,6 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/1" alt="Recent Article 1"> 
 <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/2" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/3" alt="Recent Article 3"> 
 <br>
 
