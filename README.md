@@ -14,11 +14,11 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 ### BIO <br>
 
 🏢 I'm currently looking for full stack opportunities and working on various personal projects. <br>
-⚙️ I use daily: Ruby on rails, JavaScript, HTML, CSS, Figma, Postresql <br>
+⚙️ I use daily: Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
 🌍 I'm mostly active within the Ruby community <br>
-💅 Designed: Staysafe, spotify clone <br>
+💅 Designed: Staysafe <br>
 🌱 Learning all about Ruby on rails and JavaScript <br>
-:incoming_envelope: contact me, i love to listening  : :pencil2:  leynessa1@gmail.com <br>
+:incoming_envelope: contact me, i love listening  : :pencil2:  leynessa1@gmail.com <br>
       
       
 ⚡️ Fun fact: I like crossfit, running and Jerk Chicken
