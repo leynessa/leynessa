@@ -16,7 +16,7 @@ I'm a Full-Stack Developer, who completed the Full stack Web development course 
 🏢 I'm currently looking for full stack opportunities and working on various personal projects. <br>
 ⚙️ I use daily: Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
 🌍 I'm mostly active within the Ruby community <br>
-💅 Designed: Staysafe: https://www.staysaferio.me/ <br>
+💅 Designed: Staysafe: https://staysafe-rio.herokuapp.com/ <br>
 🌱 Learning all about Ruby on rails and JavaScript <br>
 :incoming_envelope: contact me : :pencil2:  leynessa1@gmail.com <br>
       
