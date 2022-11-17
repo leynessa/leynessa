@@ -9,11 +9,11 @@
 
 ----
 
-I'm a Full-Stack Developer, who completed the Full stack Web development course at Le Wagon.
+
 
 ### BIO <br>
 
-🏢 I'm currently looking for full stack opportunities and working on various personal projects. <br>
+🏢 I'm currently looking for tech opportunities and working on various personal projects. <br>
 ⚙️ I use daily: Ruby on rails, JavaScript, HTML, CSS, Postresql, Python <br>
 🌍 I'm mostly active within the Ruby community <br>
 💅 Designed: Staysafe: https://staysafe-rio.herokuapp.com/ <br>
