@@ -19,8 +19,7 @@
 
 🏢 I'm currently looking for data science opportunities and working on various personal projects. I am also a pos grad student in data science, machine learning and artificial intelligence at PUC-Rio <br>
 ⚙️ I use daily: Python, Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
-💅 Designed: Staysafe: https://staysafe-rio.herokuapp.com/ <br>
-🌱 Learning all about python, Ruby on rails, SQL and JavaScript <br>
+🌱 Learning all about python, ML, Ruby on rails, SQL and JavaScript <br>
 :incoming_envelope: contact me : :pencil2:  leynessa1@gmail.com <br>
    
       
@@ -34,7 +33,7 @@ covid detection based on Xray: https://github.com/leynessa/covid_detection_based
 image classifier to tell if someone is sad or happy : https://github.com/leynessa/sadhappy_classifier <br>
 <br>
 *ROR*<br>
-Staysafe website: https://github.com/leynessa/staysafe
+Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.herokuapp.com/ 
 <br>
 *JS* <br>
 50 Javascript projects in 50 days challenge : https://github.com/leynessa/50projects/tree/master
