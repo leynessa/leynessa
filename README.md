@@ -17,13 +17,13 @@
 
 ### BIO <br>
 
-🏢 I'm currently looking for data science opportunities and working on various personal projects. I am also a pos grad student in data science, machine learning and artificial intelligence at PUC-Rio <br>
-⚙️ I use daily: Python, Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
+🏢 I'm a pos graduate student in data science, Business intelligence and artificial intelligence at PUC-Rio and I have a strong background in the healthcare setor. I currently looking for opportunities these fields.  I love working on personal projects and expanding my knowledge in data science and web development. <br>
+⚙️ I use daily: Python, SQL Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
 🌱 Learning all about python, ML, Ruby on rails, SQL and JavaScript <br>
 :incoming_envelope: contact me : :pencil2:  leynessa1@gmail.com <br>
    
       
-⚡️ Fun fact: I like crossfit, running and Jerk Chicken <br>
+⚡️ Fun fact: I like being outdoors, running and Jerk Chicken <br>
 
 
 ---
