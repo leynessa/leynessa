@@ -17,8 +17,8 @@
 
 ### BIO <br>
 
-🏢 I'm a pos graduate student in data science, Business intelligence and artificial intelligence at PUC-Rio and I have a strong background in the healthcare setor. I am currently looking for opportunities these fields.  I love working on personal projects and expanding my knowledge in data science and web development. <br>
-⚙️ I use daily: Python, SQL Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
+🏢 I'm a pos graduate student in data science, Business intelligence and artificial intelligence at PUC-Rio and I have a strong background in the healthcare sector. I am currently looking for opportunities these fields.  I love working on personal projects and expanding my knowledge in data science and web development. <br>
+⚙️ I use daily: Python, Ruby on rails, JavaScript, HTML, CSS, Postresql <br>
 🌱 Learning all about python, ML, Ruby on rails, SQL and JavaScript <br>
 :incoming_envelope: contact me : :pencil2:  leynessa1@gmail.com <br>
    
