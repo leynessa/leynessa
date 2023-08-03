@@ -33,6 +33,7 @@ covid detection based on Xray: https://github.com/leynessa/covid_detection_based
 image classifier to tell if someone is sad or happy : https://github.com/leynessa/sadhappy_classifier <br>
 detect the age of patients based on the chest xrays : https://github.com/leynessa/chest_xray/tree/master<br>
 determine the survival rate of person that where on the titanic: https://github.com/leynessa/ds_projects/blob/main/basic_Classifier_python_and_titanic.ipynb <br>
+Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
 <br>
 *ROR*<br>
 Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.herokuapp.com/ 
