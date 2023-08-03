@@ -66,7 +66,7 @@ Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.he
 ---
 
 ### :writing_hand: Blog Posts :
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/5" alt="Recent Article 5"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0" alt="Recent Article 0"> 
 <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/3" alt="Recent Article 3"> 
 <br>
