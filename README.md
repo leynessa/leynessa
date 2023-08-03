@@ -34,7 +34,7 @@ image classifier to tell if someone is sad or happy : https://github.com/leyness
 detect the age of patients based on the chest xrays : https://github.com/leynessa/chest_xray/tree/master<br>
 determine the survival rate of person that where on the titanic: https://github.com/leynessa/ds_projects/blob/main/basic_Classifier_python_and_titanic.ipynb <br>
 Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
-<br>
+<br><br>
 *ROR*<br>
 Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.herokuapp.com/ 
 <br>
