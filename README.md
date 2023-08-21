@@ -29,11 +29,11 @@
 ---
 ✍🏻 My projects <br>
  *Data Science*<br>
-covid detection based on Xray: https://github.com/leynessa/covid_detection_based_on_xray <br>
-image classifier to tell if someone is sad or happy: https://github.com/leynessa/sadhappy_classifier <br>
-detect the age of patients based on the chest xrays: https://github.com/leynessa/chest_xray/tree/master<br>
-determine the survival rate of persons on the Titanic: https://github.com/leynessa/ds_projects/blob/main/basic_Classifier_python_and_titanic.ipynb <br>
-Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
+1. Covid detection based on Xray: https://github.com/leynessa/covid_detection_based_on_xray <br>
+2. Image classifier to tell if someone is sad or happy: https://github.com/leynessa/sadhappy_classifier <br>
+3. Detect the age of patients based on the chest xrays: https://github.com/leynessa/chest_xray/tree/master<br>
+4. Determine the survival rate of persons on the Titanic: https://github.com/leynessa/ds_projects/blob/main/basic_Classifier_python_and_titanic.ipynb <br>
+5. Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
 <br><br>
 
 *BI* <br>
