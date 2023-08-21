@@ -30,9 +30,9 @@
 ✍🏻 My projects <br>
  *Data Science*<br>
 covid detection based on Xray: https://github.com/leynessa/covid_detection_based_on_xray <br>
-image classifier to tell if someone is sad or happy : https://github.com/leynessa/sadhappy_classifier <br>
-detect the age of patients based on the chest xrays : https://github.com/leynessa/chest_xray/tree/master<br>
-determine the survival rate of person that where on the titanic: https://github.com/leynessa/ds_projects/blob/main/basic_Classifier_python_and_titanic.ipynb <br>
+image classifier to tell if someone is sad or happy: https://github.com/leynessa/sadhappy_classifier <br>
+detect the age of patients based on the chest xrays: https://github.com/leynessa/chest_xray/tree/master<br>
+determine the survival rate of persons on the Titanic: https://github.com/leynessa/ds_projects/blob/main/basic_Classifier_python_and_titanic.ipynb <br>
 Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
 <br><br>
 
@@ -44,7 +44,7 @@ https://github.com/leynessa/power_BI_pratice
 Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.herokuapp.com/ 
 <br>
 *JS* <br>
-50 Javascript projects in 50 days challenge : https://github.com/leynessa/50projects/tree/master
+50 Javascript projects in 50 days challenge: https://github.com/leynessa/50projects/tree/master
 
 
 ---
