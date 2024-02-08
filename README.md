@@ -17,7 +17,7 @@
 
 ### BIO <br>
 
-🏢 I'm a data enthusiast pursuing my postgraduate studies in Data Science, Business Intelligence, and Artificial Intelligence at PUC-Rio. With a solid foundation in the healthcare sector, I am actively seeking exciting prospects within these domains. Passionate about personal projects, I thrive on broadening my expertise in data science and web development. Additionally, I am diligently preparing for the PL-300 exam.<br>
+🏢 I'm a data enthusiast pursuing my postgraduate studies in Data Science, Business Intelligence, and Artificial Intelligence at PUC-Rio. With a solid foundation in the healthcare sector, I am actively seeking exciting prospects within these domains. Passionate about personal projects, I thrive on broadening my expertise in data science<br>
 ⚙️  My daily toolkit: Python, Ruby on Rails, JavaScript, HTML, CSS, Postgresql <br>
 🌱 Currently immersed in mastering Python, Machine Learning, Ruby on Rails, SQL, and JavaScript <br>
 :incoming_envelope: contact me : :pencil2:  leynessa1@gmail.com <br>
