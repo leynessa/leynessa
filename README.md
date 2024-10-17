@@ -3,8 +3,7 @@
 # Hi! I´m Ashley👋
 
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashleyvanessawilliams/)
-<br>
+
 
 
 <!---[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://portfolioash.herokuapp.com/#) <br> --->
@@ -17,13 +16,12 @@
 
 ### BIO <br>
 
-🏢 I'm a data enthusiast pursuing my postgraduate studies in Data Science, Business Intelligence, and Artificial Intelligence at PUC-Rio. With a solid foundation in the healthcare sector, I am actively seeking exciting prospects within these domains. Passionate about personal projects, I thrive on broadening my expertise in data science<br>
+🏢 I have a solid foundation in the healthcare sector. Passionate about personal projects, I thrive on broadening my expertise in data science and AI<br>
 ⚙️  My daily toolkit: Python, Ruby on Rails, JavaScript, HTML, CSS, Postgresql <br>
-🌱 Currently immersed in mastering Python, Machine Learning, Ruby on Rails, SQL, and JavaScript <br>
-:incoming_envelope: contact me : :pencil2:  leynessa1@gmail.com <br>
+🌱 Currently immersed in mastering Python, Machine Learning, Ruby on Rails, SQL <br>
+ <br>
    
-      
-⚡️ Fun fact: I like being outdoors, running and Jerk Chicken <br>
+  <br>
 
 
 ---
