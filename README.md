@@ -91,10 +91,9 @@ Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.he
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/3" alt="Recent Article 3"> 
 <br>
 <a href="https://studyinestonia.ee/index.php/blog/romanticizing-my-estonian-learning-era" target="_blank">
-  <img src="https://studyinestonia.ee/wp-content/uploads/2023/01/estonian-learning-era.jpg" width="400px" alt="Romanticizing My Estonian Learning Era">
+  <img src="https://studyinestonia.ee/sites/default/files/20250325_205009.jpg" width="500px" alt="Romanticizing My Estonian Learning Era">
 </a>
-<br><br>
-
+<br>
 <a href="https://studyinestonia.ee/index.php/blog/abroad-still-finding-piece-home-estonia" target="_blank">
-  <img src="https://studyinestonia.ee/wp-content/uploads/2023/01/finding-home-estonia.jpg" width="400px" alt="Finding Home in Estonia">
+  <img src="https://studyinestonia.ee/sites/default/files/WhatsApp%20Image%202025-11-01%20at%2016.27.08_fca7d2e9.jpg" width="500px" alt="Finding Home in Estonia">
 </a>
