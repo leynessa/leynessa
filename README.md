@@ -14,7 +14,7 @@
 
 
 
-### BIO <br>
+# BIO <br>
 
 🏢   I thrive on broadening my expertise in data science and AI<br>
 
@@ -25,7 +25,8 @@
 
 
 ---
-✍🏻 My projects <br>
+✍🏻 
+# My projects <br>
  ## *Data Science*<br>
 1. Covid detection based on Xray: https://github.com/leynessa/covid_detection_based_on_xray <br>
 2. Image classifier to tell if someone is sad or happy: https://github.com/leynessa/sadhappy_classifier <br>
