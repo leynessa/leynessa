@@ -16,7 +16,7 @@
 
 ### BIO <br>
 
-🏢  Passionate about personal projects, I thrive on broadening my expertise in data science and AI<br>
+🏢   I thrive on broadening my expertise in data science and AI<br>
 ⚙️  My daily toolkit: Python, Ruby on Rails, JavaScript, HTML, CSS, Postgresql <br>
 🌱 Currently immersed in mastering Python, Machine Learning, Ruby on Rails, SQL <br>
  <br>
