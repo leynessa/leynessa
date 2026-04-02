@@ -88,3 +88,14 @@ Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.he
 <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/1" alt="Recent Article 1"> 
 <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leynessa/3" alt="Recent Article 3"> 
+<br>
+
+<a target="_blank" href="https://studyinestonia.ee/index.php/blog/romanticizing-my-estonian-learning-era">
+  <img src="https://img.shields.io/badge/Blog-Romanticizing%20My%20Estonian%20Learning%20Era-blue?style=for-the-badge">
+</a>
+<br><br>
+
+<a target="_blank" href="https://studyinestonia.ee/index.php/blog/abroad-still-finding-piece-home-estonia">
+  <img src="https://img.shields.io/badge/Blog-Finding%20Home%20in%20Estonia-green?style=for-the-badge">
+</a>
