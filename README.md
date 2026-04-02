@@ -35,7 +35,7 @@
 <br><br>
 
 *Data eng full pipeline *<br>
-1. financial data warehouse
+1. financial data warehouse: https://github.com/leynessa/financial-data-warehouse
  <br><br>
    
 *BI* <br>
