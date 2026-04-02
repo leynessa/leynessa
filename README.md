@@ -39,10 +39,10 @@
  <br><br>
    
 *BI* <br>
-1.People analytics- Employee churn : https://github.com/leynessa/Employee_churn
-2. looker dash board- https://github.com/leynessa/power_BI_pratice/blob/main/employee_churn%20(1).pdf
-3. Car accident : https://github.com/leynessa/power_BI_pratice/blob/main/car%20accident.pdf
-4. Retail analysis report : https://github.com/leynessa/power_BI_pratice/blob/main/Retail%20Analysis%20Sample.pdf
+1.People analytics- Employee churn : https://github.com/leynessa/Employee_churn  <br>
+2. looker dash board- https://github.com/leynessa/power_BI_pratice/blob/main/employee_churn%20(1).pdf  <br>
+3. Car accident : https://github.com/leynessa/power_BI_pratice/blob/main/car%20accident.pdf  <br>
+4. Retail analysis report : https://github.com/leynessa/power_BI_pratice/blob/main/Retail%20Analysis%20Sample.pdf  <br>
 https://github.com/leynessa/power_BI_pratice
 <br><br>
 
@@ -55,7 +55,7 @@ Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.he
 <br>
 
 *JS* <br>
-50 Javascript projects in 50 days challenge: https://github.com/leynessa/50projects/tree/master
+50 Javascript projects in 50 days challenge: https://github.com/leynessa/50projects/tree/master <br>
 
 
 ---
