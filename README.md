@@ -1,6 +1,6 @@
 
 
-# Hi! I´m Ashley👋
+# Hi! I am Ashley👋
 
 
 
@@ -24,8 +24,7 @@
   <br>
 
 
----
-✍🏻 
+--- 
 # My projects <br>
  ## *Data Science*<br>
 1. Covid detection based on Xray: https://github.com/leynessa/covid_detection_based_on_xray <br>
