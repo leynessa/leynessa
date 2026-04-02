@@ -34,13 +34,26 @@
 5. Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
 <br><br>
 
+*Data eng full pipeline *<br>
+1. financial data warehouse
+ <br><br>
+   
 *BI* <br>
+People analytics- Employee churn : https://github.com/leynessa/Employee_churn
+2. looker dash board- https://github.com/leynessa/power_BI_pratice/blob/main/employee_churn%20(1).pdf
+3. Car accident : https://github.com/leynessa/power_BI_pratice/blob/main/car%20accident.pdf
+4. Retail analysis report : https://github.com/leynessa/power_BI_pratice/blob/main/Retail%20Analysis%20Sample.pdf
 https://github.com/leynessa/power_BI_pratice
 <br><br>
+
+*Computer Vision*<br>
+1. Butterfly detection with huggingface : https://github.com/leynessa/libkamaja
+ <br><br>
 
 *ROR*<br>
 Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.herokuapp.com/ 
 <br>
+
 *JS* <br>
 50 Javascript projects in 50 days challenge: https://github.com/leynessa/50projects/tree/master
 
