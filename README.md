@@ -26,7 +26,7 @@
 
 ---
 ✍🏻 My projects <br>
- ###*Data Science*<br>
+ ## *Data Science*<br>
 1. Covid detection based on Xray: https://github.com/leynessa/covid_detection_based_on_xray <br>
 2. Image classifier to tell if someone is sad or happy: https://github.com/leynessa/sadhappy_classifier <br>
 3. Detect the age of patients based on the chest xrays: https://github.com/leynessa/chest_xray/tree/master<br>
@@ -34,11 +34,11 @@
 5. Determine is the Breast cancer is malignant or not using binary classification: https://github.com/leynessa/ds_projects/blob/main/binary_class_breast_cancer.ipynb
 <br><br>
 
-##*Data eng full pipeline*<br>
+## *Data eng full pipeline*<br>
 1. financial data warehouse and tableau visualization: https://github.com/leynessa/financial-data-warehouse
  <br><br>
    
-##*BI* <br>
+## *BI* <br>
 1.People analytics- Employee churn : https://github.com/leynessa/Employee_churn  <br>
 2. looker dash board employee churn- https://github.com/leynessa/power_BI_pratice/blob/main/employee_churn%20(1).pdf  <br>
 3. Car accident : https://github.com/leynessa/power_BI_pratice/blob/main/car%20accident.pdf  <br>
@@ -46,15 +46,15 @@
 https://github.com/leynessa/power_BI_pratice
 <br><br>
 
-##*Computer Vision*<br>
+## *Computer Vision*<br>
 1. Butterfly detection with huggingface : https://github.com/leynessa/libkamaja
  <br><br>
 
-##*ROR*<br>
+## *ROR*<br>
 Staysafe website: https://github.com/leynessa/staysafe | https://staysafe-rio.herokuapp.com/ 
 <br>
 
-##*JS* <br>
+## *JS* <br>
 50 Javascript projects in 50 days challenge: https://github.com/leynessa/50projects/tree/master <br>
 
 
