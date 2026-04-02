@@ -39,7 +39,7 @@
  <br><br>
    
 *BI* <br>
-People analytics- Employee churn : https://github.com/leynessa/Employee_churn
+1.People analytics- Employee churn : https://github.com/leynessa/Employee_churn
 2. looker dash board- https://github.com/leynessa/power_BI_pratice/blob/main/employee_churn%20(1).pdf
 3. Car accident : https://github.com/leynessa/power_BI_pratice/blob/main/car%20accident.pdf
 4. Retail analysis report : https://github.com/leynessa/power_BI_pratice/blob/main/Retail%20Analysis%20Sample.pdf
